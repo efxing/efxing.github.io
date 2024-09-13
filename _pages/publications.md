@@ -7,11 +7,22 @@ author_profile: true
 
 {% include base_path %}
 
-_Note_: Author ordering on all papers is alphabetical if not specified, as is convention in OR/MS. (**C**) and (**J**) denote preliminary conference version and the full journal version, respectively.
+_Note_: (A) denotes that the author order is alphabetical, as is convention in OR/MS. 
+<! -- (**C**) and (**J**) denote preliminary conference version and the full journal version, respectively. -->
+
 # **Accepted Papers**
-* [Optimizing Two-Truck Platooning with Deadlines](https://ieeexplore.ieee.org/document/9944383) w/ Wenjie Xu* and Minghua Chen (*: co-primary authors).[[Direct Link]](https://tcui-pitt.github.io/files/2truckplatooning.TITS.22.pdf) 
-  * (**J**) Accepted in IEEE Transactions on Intelligent Transportation Systems, 2022. 
+* [Pricing and Quality Decisions with Conspicuous Consumers](https://doi.org/10.1016/j.tre.2022.102857) w/ Guowei Zhu, Jianxiong Zhang, et al. 
+  * (**Transportation Research Part E: Logistics and Transportation Review**), 2022, 156, 102857.
+
+* [Double Third-party Recycling Closed-loop Supply Chain Decision under the Perspective of Carbon Trading](https://doi.org/10.1016/j.jclepro.2020.120651) w/ Chengdong Shi, Jianxiong Zhang, et al.
+   * (**Journal of Cleaner Production**), 2020, 259, 120651.
+
+* [Research on Enterprise Collaborative Low Carbon Emission Reduction under Three-dimensional Trading Mode (in Chinese)](https://doi.org/10.16381/j.cnki.issn1003-207x.2018.1456) w/ Chengdong Shi, Xiuxia Yan, et al.
+  * (**Chinese Journal of Management Science**), 2020, 28(3), 174-181.
   
+* [Ｒesearch on Low Carbon Emission Ｒeduction from the Perspective of Ｒemanufacturing Closed-Loop Supply Chain (in Chinese)](https://doi.org/10.3969/j.issn.1000-7695.2018.10.033) w/ Chengdong Shi, Xiuxia Yan, et al.
+   * (**Science and Technology Management Research**), 2018, 38(10), 244-250.
+
 # **Working Papers**
 * [Pricing Strategies for Online Dating Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4032735) w/ Michael L. Hamilton. [[Slides]](https://tcui-pitt.github.io/files/ODP_cors_final.pptx)
   * (**J**) Major Revision in **Manufacturing & Service Operations Management**.

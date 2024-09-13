@@ -10,4 +10,4 @@ author_profile: true
   * I'm actively taking on more projects. If you have an interesting problem that intersects with some of my work, or are looking for a new problem please reach out.
 
 * *Industry Collaborators*
-  * I’m am eager to connect with new  industry collaborators. If you have an interesting problem please send me an email at [efxing@tju.edu](efxing@tju.edu.cn) to set-up a meeting!
+  * I’m am eager to connect with new  industry collaborators. If you have an interesting problem please send me an email at [efxing@tju.edu](mailto:efxing@tju.edu.cn) to set-up a meeting!

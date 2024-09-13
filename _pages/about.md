@@ -8,23 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Titing, I'm a 5th-year Ph.D. Candidate in Business Analytics and Operations at the [University of Pittsburgh Joseph M. Katz Graduate School of Business](https://business.pitt.edu/). I am fortunate to be advised by Professor [Michael L. Hamilton](https://mhamilton-pitt.github.io/) and Professor [Prakash Mirchandani](https://business.pitt.edu/professors/prakash-mirchandani/). Before joining Katz, I obtained my M.S. degrees in Applied and Computational Mathematics from [KTH Royal Institute of Technology](https://www.kth.se/en), and B.S. degrees in Mathematics and Applied Mathematics from [Zhejiang University](https://www.zju.edu.cn/english/).
+Hi! I’m Enfeng, I’m a PhD candidate in the College of Management and Economics at Tianjin University where I am fortunate to be advised by Professor [Jianxiong Zhang](https://scholar.google.com/citations?user=OM_OMQcAAAAJ&hl=zh-CN&oi=ao). Currently, I’m also a visiting student at the University of Pittsburgh, collaborating with Professor [Michael Hamilton](https://business.pitt.edu/professors/michael-hamilton/) at the Katz Graduate School of Business. I earned my Master’s degree from the Business School at Shandong University of Technology.
 
 <!--
-<span style="color: black;"> **I am on the 2023-2024 Academic Job Market**.  </span>
+<span style="color: black;"> **I am on the 2024-2025 Academic Job Market**.  </span>
 -->
 
 My research interests focus on building and analyzing business models for problems that are related to revenue management and pricing, fairness, and market design.
-* Methodologies: Optimization, Mathematical Analysis, Game Theory, Online Learning.
-* Applications: Revenue management, Pricing, Sustainability, Fairness.
+* Methodologies: Optimization, Mathematical Analysis, Game Theory.
+* Applications: Revenue management, Pricing, Consumer Behavior, Fairness.
 
-<!--
-# **Upcoming Talks**
-* Title: Pricing Strategies for Online Dating Platforms
-  * Session: ME04 - New Pricing Models for Online Economies 
-  * Date and Time: October 16, 2023, at 4:00 PM
-  * Location: CC-North 121A
--->
+
 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

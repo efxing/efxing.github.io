@@ -34,7 +34,7 @@ author_profile: true
    * **In progress**
      
 * [Pricing the Roses in Online Matching Platforms](). w/ Arian Aflaki, Kasra Ganjizadeh, Michael Hamilton.
- * **In progress**
+  * **In progress**
 
 <!--# **Work in Progress**-->
 

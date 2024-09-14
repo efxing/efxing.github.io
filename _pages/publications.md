@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- _Note_: (A) denotes that the author order is alphabetical, as is convention in OR/MS. -->
-<!-- {% (**C**) and (**J**) denote preliminary conference version and the full journal version, respectively. %} -->
 
 # **Accepted Papers**
 * [Pricing and Quality Decisions with Conspicuous Consumers](https://doi.org/10.1016/j.tre.2022.102857) w/ Guowei Zhu, Jianxiong Zhang, et al. 

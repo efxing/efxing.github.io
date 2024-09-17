@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-Please see my [CV](https://efxing.github.io/files/CV_enfeng.pdf).
+Please see my [CV](https://efxing.github.io/files/CV_Enfeng_Xing.pdf).

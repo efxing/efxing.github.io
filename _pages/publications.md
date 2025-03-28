@@ -23,13 +23,13 @@ author_profile: true
 
 # **Working Papers**
 * [Behavior-based Pricing with Exclusive Consumers]() w/ Jianxiong Zhang, Xiaojie Sun.
-  * **Under 2nd of review (Major Revision)** at **International Journal of Research in Marketing**.
+  * **Submitted**
     
 * [Strategic Product Offerings in the Presence of Social Comparison]() w/ Jianxiong Zhang, Guowei Liu.
-  * **Ready for submission**
+  * **Submitted**
 
 * [Can Price Discrimination be Progressive?]() w/ Max Biggs, Titing Cui, Michael Hamilton.
-   * **In progress**
+   * **Submitted**
      
 * [Pricing the Roses in Online Matching Platforms](). w/ Arian Aflaki, Kasra Ganjizadeh, Michael Hamilton.
   * **In progress**

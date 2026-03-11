@@ -9,6 +9,9 @@ author_profile: true
 
 
 # **Accepted Papers**
+* [Behavior-based pricing with exclusivity-seeking and strategic consumers](https://doi.org/10.1016/j.omega.2025.103437) w/ Jianxiong Zhang, Xiaojie Sun. 
+  * **OMEGA**, 2025, 138, 103437.
+
 * [Pricing and Quality Decisions with Conspicuous Consumers](https://doi.org/10.1016/j.tre.2022.102857) w/ Guowei Zhu, Jianxiong Zhang, et al. 
   * **Transportation Research Part E: Logistics and Transportation Review**, 2022, 156, 102857.
 
@@ -22,14 +25,14 @@ author_profile: true
    * **Science and Technology Management Research**, 2018, 38(10), 244-250.
 
 # **Working Papers**
-* [Behavior-based Pricing with Exclusive Consumers]() w/ Jianxiong Zhang, Xiaojie Sun.
-  * **Submitted**
-    
-* [Strategic Product Offerings in the Presence of Social Comparison]() w/ Jianxiong Zhang, Guowei Liu.
-  * **Submitted**
-
 * [Can Price Discrimination be Progressive?]() w/ Max Biggs, Titing Cui, Michael Hamilton.
-   * **Submitted**
+   * **Major Rrvision at Operations Research**
+
+* [Are All Cause Contributions Created Equal? Operational and Competitive Implications of Transactional and Non-Transactional Cause Marketing]() w/ Arian Aflaki, Esther Gal-Or, Mike M. Gordon, Jennifer Shang.
+   * **Major Rrvision at Production and Operations Management**
+    
+* [Navigating Social Comparison: Optimizing Product Offerings through Balancing Exclusivity and Conformity]() w/ Jianxiong Zhang, Guowei Liu, Jennifer Shang.
+  * **Second-round Major Revision at European Journal of Operational Research**
      
 * [Pricing the Roses in Online Matching Platforms](). w/ Arian Aflaki, Kasra Ganjizadeh, Michael Hamilton.
   * **In progress**

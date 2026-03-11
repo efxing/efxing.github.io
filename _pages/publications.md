@@ -10,7 +10,7 @@ author_profile: true
 
 # **Accepted Papers**
 * [Behavior-based pricing with exclusivity-seeking and strategic consumers](https://doi.org/10.1016/j.omega.2025.103437) w/ Jianxiong Zhang, Xiaojie Sun. 
-  * **OMEGA**, 2025, 138, 103437.
+  * **OMEGA**, 2026, 138, 103437.
 
 * [Pricing and Quality Decisions with Conspicuous Consumers](https://doi.org/10.1016/j.tre.2022.102857) w/ Guowei Zhu, Jianxiong Zhang, et al. 
   * **Transportation Research Part E: Logistics and Transportation Review**, 2022, 156, 102857.

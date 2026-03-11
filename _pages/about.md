@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Enfeng, a PhD candidate in the College of Management and Economics at Tianjin University where I am fortunate to be advised by Professor [Jianxiong Zhang](https://scholar.google.com/citations?user=OM_OMQcAAAAJ&hl=zh-CN&oi=ao). During 2024-2025 academic year, I am also a visiting student at the University of Pittsburgh, collaborating with Professor [Michael Hamilton](https://business.pitt.edu/professors/michael-hamilton/) at the Katz Graduate School of Business. Now I am on the 2025-2026 Academic Job Market! 
+Hi! I’m Enfeng. I received my PhD in January 2026 from the College of Management and Economics at Tianjin University where I was fortunate to be advised by Professor [Jianxiong Zhang](https://scholar.google.com/citations?user=OM_OMQcAAAAJ&hl=zh-CN&oi=ao). During 2024-2025 academic year, I am also a visiting student at the University of Pittsburgh, collaborating with Professor [Michael Hamilton](https://business.pitt.edu/professors/michael-hamilton/) at the Katz Graduate School of Business. I am currently on the 2025–2026 Academic Job Market!
 
 <!--
 <span style="color: black;"> **I am on the 2024-2025 Academic Job Market**.  </span>
